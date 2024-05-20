@@ -18,9 +18,10 @@ of data to z-scores, and the calculation of summary atypicality scores.
 Key Features
 ------------
 
-.. grid:: 2 
+.. grid:: 1 2 2 2 
 
   .. grid-item-card:: Models
+      :columns: auto
 
     * Gaussian Homoskedastic
 
@@ -42,6 +43,7 @@ Key Features
 
 
   .. grid-item-card:: Model Methods
+      :columns: auto
 
     * Estimate quantiles
     * Transform data to z-scores
@@ -52,11 +54,13 @@ Key Features
 
 
   .. grid-item-card:: Anomaly Detection
+      :columns: auto
 
     * Various anomaly scores including mean-z, min/max-z, z-over-threshold, and others
 
 
   .. grid-item-card:: Validation
+      :columns: auto
 
     * Whole Model
 
@@ -72,6 +76,7 @@ Key Features
     * *(untested, probably broken)* scikit-learn grid search etc. 
 
   .. grid-item-card:: Ploting
+      :columns: auto
 
     * Plot centiles (should be better)
     * *(not-implemented)* calibration plots: 
@@ -83,6 +88,7 @@ Key Features
       * centiles/distribution
 
   .. grid-item-card:: scikit-learn Compatibility
+      :columns: auto
 
     * Grid search, pipelines, CV scorers, etc.
     * In theory should work
