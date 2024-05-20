@@ -1,0 +1,84 @@
+
+
+Examples using ``sknormod.base.DistributionalRegressorMixin``
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+.. start-sphx-glr-thumbnails
+
+
+.. raw:: html
+
+    <div class="sphx-glr-thumbnails">
+
+.. thumbnail-parent-div-open
+
+.. raw:: html
+
+    <div class="sphx-glr-thumbcontainer" tooltip="This example showcases the usage of the NormodOLS class from the sknormod library. It focuses o...">
+
+.. only:: html
+
+  .. image:: /auto_examples/images/thumb/sphx_glr_plot_normodols_thumb.png
+    :alt:
+
+  :ref:`sphx_glr_auto_examples_plot_normodols.py`
+
+.. raw:: html
+
+      <div class="sphx-glr-thumbnail-title">Plotting NormodOLS normative model</div>
+    </div>
+
+
+.. only:: not html
+
+ * :ref:`sphx_glr_auto_examples_plot_normodols.py`
+
+.. raw:: html
+
+    <div class="sphx-glr-thumbcontainer" tooltip="Meta-regression">
+
+.. only:: html
+
+  .. image:: /auto_examples/images/thumb/sphx_glr_plot_metaregls_thumb.png
+    :alt:
+
+  :ref:`sphx_glr_auto_examples_plot_metaregls.py`
+
+.. raw:: html
+
+      <div class="sphx-glr-thumbnail-title">Meta-regression</div>
+    </div>
+
+
+.. only:: not html
+
+ * :ref:`sphx_glr_auto_examples_plot_metaregls.py`
+
+.. raw:: html
+
+    <div class="sphx-glr-thumbcontainer" tooltip="This script demonstrates the progression from Linear Model (LM) to Generalized Additive Models ...">
+
+.. only:: html
+
+  .. image:: /auto_examples/images/thumb/sphx_glr_plot_gamlss_thumb.png
+    :alt:
+
+  :ref:`sphx_glr_auto_examples_plot_gamlss.py`
+
+.. raw:: html
+
+      <div class="sphx-glr-thumbnail-title">From LM to GAMLSS</div>
+    </div>
+
+
+.. only:: not html
+
+ * :ref:`sphx_glr_auto_examples_plot_gamlss.py`
+
+.. thumbnail-parent-div-close
+
+.. raw:: html
+
+    </div>
+
